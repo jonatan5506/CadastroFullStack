@@ -1,0 +1,16 @@
+html, body{
+    height: 100%;
+}
+.form-container {
+    max-width: 350px;
+    padding: 1rem;
+}
+
+button{
+margin-top: 10px;
+}
+
+.form-floating{
+    font-size: 15px;
+    margin-top: 5px;
+}
